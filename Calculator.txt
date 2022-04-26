@@ -1,0 +1,4 @@
+This is loan calculator
+interest
+principle amount
+varib;e
